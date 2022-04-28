@@ -1,0 +1,11 @@
+.imgstyle{
+    width: 30vw;
+    height: auto;
+    align-items: center;
+}
+.centerit{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
