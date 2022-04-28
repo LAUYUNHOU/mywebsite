@@ -1,3 +1,7 @@
+<style>
+h1 {text-align: center;}
+</style>
+
 <h1 align-item = center>This is my first markdown</h1>
 
 This is not that easy
